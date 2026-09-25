@@ -1,0 +1,9 @@
+metric,value
+users_input_rows,10000
+users_after_cleaning,10000
+orders_input_rows,20000
+orders_after_cleaning,20000
+fulfilled_orders_used_for_rfm,8134
+customers_with_fulfilled_orders,5577
+customers_without_fulfilled_orders,4423
+snapshot_date,2025-11-15
