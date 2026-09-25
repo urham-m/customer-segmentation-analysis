@@ -1,0 +1,6 @@
+segment_name,customer_count,avg_recency,avg_frequency,avg_monetary,customer_pct,marketing_recommendation
+At-Risk High Value,1155,468.6,1.0,1217.37,11.55,"Run personalized win-back campaigns, highlight relevant products, and use limited-time offers to recover previously valuable customers."
+At-Risk Low Value,1244,448.0,1.0,119.33,12.44,"Use low-cost reactivation campaigns, educational content, and frequency-building offers before applying expensive incentives."
+Champions,1961,208.6,2.3,1352.86,19.61,"Use loyalty/VIP benefits, early access, personalized cross-sells, and referral incentives to deepen retention and advocacy."
+New / Occasional,1217,126.1,1.0,522.7,12.17,"Focus on the second purchase: onboarding messages, cross-sell recommendations, and a modest next-purchase incentive."
+No Purchase Yet,4423,,0.0,0.0,44.23,Use welcome/onboarding messaging and a first-purchase incentive to convert registered users into buyers.

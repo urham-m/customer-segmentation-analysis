@@ -1,0 +1,5 @@
+kmeans_cluster,customer_count,recency_mean,recency_median,frequency_mean,frequency_median,monetary_mean,monetary_median,segment_name,marketing_recommendation
+0,1217,126.14133114215284,119.0,1.0,1.0,522.6965242399343,335.61,New / Occasional,"Focus on the second purchase: onboarding messages, cross-sell recommendations, and a modest next-purchase incentive."
+1,1961,208.58490566037736,177.0,2.3039265680775114,2.0,1352.855609382968,975.29,Champions,"Use loyalty/VIP benefits, early access, personalized cross-sells, and referral incentives to deepen retention and advocacy."
+2,1244,447.9742765273312,455.0,1.0,1.0,119.32862540192926,97.465,At-Risk Low Value,"Use low-cost reactivation campaigns, educational content, and frequency-building offers before applying expensive incentives."
+3,1155,468.56969696969696,479.0,1.0,1.0,1217.3703982683983,887.11,At-Risk High Value,"Run personalized win-back campaigns, highlight relevant products, and use limited-time offers to recover previously valuable customers."

@@ -1,0 +1,3 @@
+model,k,silhouette_score
+KMeans,4,0.4736416504445442
+Agglomerative Ward,4,0.4387723087369335
